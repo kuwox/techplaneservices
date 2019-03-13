@@ -1,0 +1,311 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hid",
+				"hidden-md-down"
+			],
+			[
+				"img",
+				"img-fluid"
+			],
+			[
+				"hidd",
+				"hidden-xs"
+			],
+			[
+				"hidde",
+				"hidden-sm-up"
+			],
+			[
+				"otras",
+				"otrasplataformas"
+			],
+			[
+				"compra",
+				"comprayventa"
+			],
+			[
+				"dr",
+				"dropdown-toggle"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"Al",
+				"Alegreya"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"cer",
+				"certificaciones"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"ceri",
+				"Certificaciones"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"backgruo",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"back",
+				"background-position"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/www.techplaneservices.com",
+		"/var/www/html/www.techplaneservices.com/en"
+	],
+	"file_history":
+	[
+		"/var/www/html/www.techplaneservices.com/index.html",
+		"/var/www/html/www.techplaneservices.com/en/index.html",
+		"/home/kuwox/www/www.spolzino.com.ve/index.html",
+		"/home/kuwox/www/www.techplaneservices.com/index.html",
+		"/home/kuwox/www/www.techplaneservices.com/vendor/bootstrap/css/bootstrap.min.css",
+		"/home/kuwox/www/www.techplaneservices.com/contactenos.html",
+		"/home/kuwox/prueba.html",
+		"/home/kuwox/www/www.techplaneservices.com/instalaciones.html",
+		"/home/kuwox/www/www.techplaneservices.com/otrasplataformas.html",
+		"/home/kuwox/www/slider/index.html",
+		"/home/kuwox/www/www.techplaneservices.com/mantenimiento.html",
+		"/home/kuwox/www/www.techplaneservices.com/comprayventa.html",
+		"/home/kuwox/www/www.techplaneservices.com/repuestos.html",
+		"/home/kuwox/www/slider/css/style.css",
+		"/home/kuwox/www/www.techplaneservices.com/css/full-slider.css",
+		"/home/kuwox/www/www.techplaneservices.com/men.html",
+		"/home/kuwox/www/www.techplaneservices.com/image.html",
+		"/home/kuwox/www/www.techplaneservices.com/custom.js",
+		"/home/kuwox/www/www.techplaneservices.com/map.html",
+		"/home/kuwox/www/www.techplaneservices.com/vendor/bootstrap/css/bootstrap.min.customer.css",
+		"/home/kuwox/www/www.techplaneservices.com/Carpeta nueva/bootstrap-4.0.0/dist/css/bootstrap.min.css",
+		"/home/kuwox/www/www.techplaneservices.com/certificaciones.html",
+		"/home/kuwox/www/www.techplaneservices.com/Carpeta nueva/index2.html",
+		"/home/kuwox/www/www.techplaneservices.com/vendor/bootstrap/css/bootstrap.css",
+		"/tmp/xa-yDXbQC/index.html",
+		"/home/kuwox/www/www.techplaneservices.com/bootstrap-4.0.0/docs/4.0/examples/starter-template/index.html",
+		"/home/kuwox/www/www.techplaneservices.com/bootstrap-4.0.0/docs/4.0/examples/navbar-fixed/index.html",
+		"/home/kuwox/www/www.techplaneservices.com/bootstrap-4.0.0/index.html",
+		"/home/kuwox/www/www.techplaneservices.com/css/product.css",
+		"/home/kuwox/www/www.techplaneservices.com/css/bootstrap.min.css"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "techplane",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,110 @@
+
+.box h3{
+text-align:center;
+position:relative;
+top:80px;
+}
+.box {
+
+background:#FFF;
+
+}
+/*==================================================
+* Efecto 1
+* ===============================================*/
+.effect1{
+-webkit-box-shadow: 0 10px 6px -6px #777;
+-moz-box-shadow: 0 10px 6px -6px #777;
+box-shadow: 0 10px 6px -6px #777;
+}
+
+.box2 h3{
+text-align:center;
+position:relative;
+font-family: Arial;
+color: #fff;
+ 
+top:80px;
+}
+.box2 {
+width:70%;
+height:200px;
+background:#2187a2;
+margin:40px auto;
+}
+ 
+/*==================================================
+* Efecto 2
+* ===============================================*/
+.effect2
+{
+position: relative;
+}
+.effect2:before, .effect2:after
+{
+<a href="https://www.cssblog.es/z-index-propiedad/">z-index</a>: -1;
+position: absolute;
+content: "";
+bottom: 15px;
+left: 10px;
+width: 50%;
+top: 80%;
+max-width:300px;
+background: #777;
+-webkit-box-shadow: 0 15px 10px #777;
+-moz-box-shadow: 0 15px 10px #777;
+box-shadow: 0 15px 10px #777;
+-webkit-transform: rotate(-3deg);
+-moz-transform: rotate(-3deg);
+-o-transform: rotate(-3deg);
+-ms-transform: rotate(-3deg);
+transform: rotate(-3deg);
+}
+.effect2:after
+{
+-webkit-transform: rotate(3deg);
+-moz-transform: rotate(3deg);
+-o-transform: rotate(3deg);
+-ms-transform: rotate(3deg);
+transform: rotate(3deg);
+right: 10px;
+left: auto;
+}
+.hr1 { 
+   border: 2px solid #3d298c; 
+   border-radius: 200px /0px; 
+   height: 0px; 
+   text-align: center; 
+ } 
+
+.rounded-circle-customer
+		{
+			border: 4px solid #3a229c;
+			border-radius:50%!important;
+			padding: 2px; 
+		}
+
+.gradiente {
+background: rgba(226,226,226,1);
+background: -moz-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(254,254,254,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(226,226,226,1)), color-stop(50%, rgba(219,219,219,1)), color-stop(51%, rgba(209,209,209,1)), color-stop(100%, rgba(254,254,254,1)));
+background: -webkit-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(254,254,254,1) 100%);
+background: -o-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(254,254,254,1) 100%);
+background: -ms-linear-gradient(top, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(254,254,254,1) 100%);
+background: linear-gradient(to bottom, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(254,254,254,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e2e2e2', endColorstr='#fefefe', GradientType=0 );}
+
+.gradiente2 {
+	background: rgba(193,191,234,1);
+background: -moz-linear-gradient(top, rgba(193,191,234,1) 0%, rgba(206,199,236,1) 11%, rgba(216,208,239,1) 82%, rgba(235,233,249,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(193,191,234,1)), color-stop(11%, rgba(206,199,236,1)), color-stop(82%, rgba(216,208,239,1)), color-stop(100%, rgba(235,233,249,1)));
+background: -webkit-linear-gradient(top, rgba(193,191,234,1) 0%, rgba(206,199,236,1) 11%, rgba(216,208,239,1) 82%, rgba(235,233,249,1) 100%);
+background: -o-linear-gradient(top, rgba(193,191,234,1) 0%, rgba(206,199,236,1) 11%, rgba(216,208,239,1) 82%, rgba(235,233,249,1) 100%);
+background: -ms-linear-gradient(top, rgba(193,191,234,1) 0%, rgba(206,199,236,1) 11%, rgba(216,208,239,1) 82%, rgba(235,233,249,1) 100%);
+background: linear-gradient(to bottom, rgba(193,191,234,1) 0%, rgba(206,199,236,1) 11%, rgba(216,208,239,1) 82%, rgba(235,233,249,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c1bfea', endColorstr='#ebe9f9', GradientType=0 );
+}
+.certificaciones
+{
+	 style="font-family: 'Oswald', serif;"
+}
